@@ -1,0 +1,2 @@
+# Snail (Ilbiz) Task
+Snail has to climb to the tree with h meters high. It goes up 5 m every daylight but goes down 2 m every night. How long it will take for snail to reach the top. Lets accept h as 100 meters. But it is a variable and can be modified by user
